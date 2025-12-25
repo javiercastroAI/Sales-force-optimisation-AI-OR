@@ -4,7 +4,7 @@ End-to-end pipeline for sales force optimisation. Sales potential, churn, anomal
 
 **Author:** Javier Castro (dnAI)  
 **Date:** July 2025  
-**License** 
+**License** This project is released under the MIT license. See the LICENSE file for full details
 ---
 
 ## Overview

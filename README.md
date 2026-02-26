@@ -1,3 +1,13 @@
+> Research prototype only: this repository is for experimentation and learning, not production deployment.
+
+## Purpose
+
+End-to-end pipeline for sales force optimisation. Sales potential, churn, anomalies, segmentation, Next Best Action and routing
+
+## Security
+
+See [SECURITY.md](./SECURITY.md) for reporting and usage guidance.
+
 # OptimAI: Research-Grade Field Sales Optimisation Pilot
 
 ## Author and License
